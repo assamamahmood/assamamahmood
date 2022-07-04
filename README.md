@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assamamahmood
+- 👋 Hi, I’m assamamahmood
 - 👀 I’m interested in Cyber Security, IT Security 
 - 🌱 I’m currently learning any security labs from hackthebox, tryhackme
 - 💞️ I’m looking to collaborate on a security role
